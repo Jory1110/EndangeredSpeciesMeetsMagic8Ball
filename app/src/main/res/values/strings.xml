@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Endangered Species/Magic 8 Ball</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgLarge">Endangered Species Images</string>
+</resources>
